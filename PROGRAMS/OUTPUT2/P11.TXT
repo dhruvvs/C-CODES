@@ -1,0 +1,46 @@
+																				
+                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Enter no. of elements: 5                                                        
+                                                                                
+Enter element 0 :       12                                                      
+                                                                                
+Enter element 1 :       23                                                      
+                                                                                
+Enter element 2 :       34                                                      
+                                                                                
+Enter element 3 :       45                                                      
+                                                                                
+Enter element 4 :       56                                                      
+                                                                                
+Enter element to be searched: 45                                                
+                                                                                
+Given Array:                                                                    
+12      23      34      45      56                                              
+Element to be searched: 45                                                      
+Element found at position: 3                                                    
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

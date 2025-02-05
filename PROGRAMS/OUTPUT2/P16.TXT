@@ -1,0 +1,5 @@
+Enter a string: MALAYALAM                                                       
+                                                                                
+Enter a character to be searched: A                                             
+                                                                                
+No. of occurences of A in the string is: 4                                      

@@ -1,0 +1,25 @@
+Enter your choice(1-4): 2                                                       
+                                                                                
+POP Operation........                                                           
+Poped value is 7                                                                
+-----------------------------------------------------------                     
+                STACK USING LINKED LIST                                         
+                                                                                
+1:PUSH                                                                          
+2:POP                                                                           
+3:DISPLAY STACK                                                                 
+4:EXIT                                                                          
+Enter your choice(1-4): 3                                                       
+                                                                                
+The stack is                                                                    
+5 ->NULL                                                                        
+                                                                                
+-----------------------------------------------------------                     
+                STACK USING LINKED LIST                                         
+                                                                                
+1:PUSH                                                                          
+2:POP                                                                           
+3:DISPLAY STACK                                                                 
+4:EXIT                                                                          
+Enter your choice(1-4): 4                                                       
+                                                                                

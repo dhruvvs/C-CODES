@@ -1,0 +1,325 @@
+																				
+Pattern of alphabets consisting of 5 rows:                                      
+A                                                                               
+A B                                                                             
+A B C                                                                           
+A B C D                                                                         
+A B C D E                                                                       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Pattern of numbers consisting of 5 rows:                                        
+1                                                                               
+2 3                                                                             
+3 4 5                                                                           
+4 5 6 7                                                                         
+5 6 7 8 9                                                                       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Enter any number (between 0 to 10):5                                            
+                                                                                
+ Factorial value of 5 is: 120                                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Prime numbers between 5 and 100 are:-                                           
+7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Enter a number: 34569                                                           
+                                                                                
+Reverse of the number is: 96543                                                 
+Sum of its digits: 27                                                           
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+ Enter a number : 8                                                             
+                                                                                
+First 8 terms of the Fibonacci series are:                                      
+1       1       2       3       5       8       13      21                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Enter any number:7                                                              
+                                                                                
+Sum of the factorial series of first 7 terms: 5913                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Enter no. of elements: 5                                                        
+                                                                                
+Enter all array elements:                                                       
+Enter the element-0: 1                                                          
+																				
+Enter the element-1: 2                                                          
+																				
+Enter the element-2: 3                                                          
+																				
+Enter the element-3: 4                                                          
+																				
+Enter the element-4: 5                                                          
+																				
+Given Array:                                                                    
+1       2       3       4       5                                               
+Reversed Array:                                                                 
+5       4       3       2       1                                               
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+Enter no. of elements: 5                                                        
+																				
+Enter all array elements:                                                       
+Enter the element-0: 4                                                          
+																				
+Enter the element-1: 6                                                          
+																				
+Enter the element-2: 7                                                          
+																				
+Enter the element-3: 8                                                          
+																				
+Enter the element-4: 6                                                          
+																				
+Given Array:                                                                    
+4       6       7       8       6                                               
+Reversed Array:                                                                 
+6       8       7       6       4                                               
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+Enter string: dhruv                                                             
+																				
+Original String: dhruv                                                          
+Length of the String: 5                                                         
+Reverse of the String: vurhd                                                    
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+Enter a string: thiruvananthapuram                                              
+																				
+Enter a character to be searched: a                                             
+																				
+No. of occurences of a in the string is: 4                                      
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+Enter element 1 :       23                                                      
+																				
+Enter element 2 :       34                                                      
+																				
+Enter element 3 :       45                                                      
+																				
+Enter element 4 :       56                                                      
+																				
+Enter element 5 :       67                                                      
+																				
+Enter element 6 :       78                                                      
+																				
+Enter element 7 :       89                                                      
+																				
+Enter element 8 :       90                                                      
+																				
+Enter element 9 :       76                                                      
+																				
+Enter element to be searched: 56                                                
+																				
+Given Array:                                                                    
+12      23      34      45      56      67      78      89      90      76      
+																				
+Element to be searched: 56                                                      
+Element found at position: 4                                                    
+																				
+Pattern of alphabets consisting of 5 rows:                                      
+A                                                                               
+A B                                                                             
+A B C                                                                           
+A B C D                                                                         
+A B C D E                                                                       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

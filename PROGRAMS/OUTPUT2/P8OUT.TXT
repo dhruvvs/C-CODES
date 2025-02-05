@@ -1,0 +1,17 @@
+																										  
+Enter no. of elements: 5                                                        
+                                                                                
+Enter element 0 : 1                                                             
+                                                                                
+Enter element 1 : 2                                                             
+                                                                                
+Enter element 2 : 3                                                             
+                                                                                
+Enter element 3 : 4                                                             
+                                                                                
+Enter element 4 : 5                                                             
+                                                                                
+Original Array:                                                                 
+1       2       3       4       5                                               
+Array after bubble sort:                                                        
+1       2       3       4       5

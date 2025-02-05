@@ -1,0 +1,25 @@
+ Enter choice: 1                                                                
+                                                                                
+Enter information:                                                              
+7                                                                               
+                                                                                
+ 1. Insert.                                                                     
+ 2. Delete.                                                                     
+ 3. Display.                                                                    
+ 4. Exit.                                                                       
+ Enter choice: 3                                                                
+                                                                                
+Information of the circular queue is: 2 4       4       7       8       89      
+4       7                                                                       
+ 1. Insert.                                                                     
+ 2. Delete.                                                                     
+ 3. Display.                                                                    
+ 4. Exit.                                                                       
+ Enter choice: 2                                                                
+                                                                                
+ 1. Insert.                                                                     
+ 2. Delete.                                                                     
+ 3. Display.                                                                    
+ 4. Exit.                                                                       
+ Enter choice: 4                                                                
+                                                                                

@@ -1,0 +1,125 @@
+																				
+Enter a string: thiruvananthapuram                                              
+                                                                                
+Enter a character to be searched: a                                             
+                                                                                
+No. of occurences of a in the string is: 4                                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																				
+Enter no. of elements: 8                                                        
+                                                                                
+Enter element 0 :       12                                                      
+                                                                                
+Enter element 1 :       23                                                      
+                                                                                
+Enter element 2 :       34                                                      
+                                                                                
+Enter element 3 :       45                                                      
+                                                                                
+Enter element 4 :       56                                                      
+                                                                                
+Enter element 5 :       67                                                      
+                                                                                
+Enter element 6 :       78                                                      
+                                                                                
+Enter element 7 :       89                                                      
+                                                                                
+Enter element to be searched: 67                                                
+                                                                                
+Given Array:                                                                    
+12      23      34      45      56      67      78      89                      
+Element to be searched: 67                                                      
+Element found at position: 5                                                    
+Enter name of the student 4: zenil                                              
+                                                                                
+Enter Roll number of student 5: 5                                               
+                                                                                
+Enter name of the student 5: utsav                                              
+                                                                                
+Orignal list of details of students entered:                                    
+                                                                                
+Rollno.         Name.                                                           
+3               dhruv                                                           
+6               rushit                                                          
+1               abhinav                                                         
+2               zenil                                                           
+5               utsav                                                           
+                                                                                
+Sorted list of details of students:                                             
+                                                                                
+Rollno.         Name.                                                           
+6               rushit                                                          
+5               utsav                                                           
+3               dhruv                                                           
+2               zenil                                                           
+1               abhinav                                                         
+                                                                                
+                                                                                
+																				
+Enter Code: DHRUV                                                               
+                                                                                
+Enter Type: SHIRT                                                               
+                                                                                
+Enter Size: 34                                                                  
+                                                                                
+Enter Material: COTTON                                                          
+                                                                                
+Code: DHRUV                                                                     
+Type: SHIRT                                                                     
+Size: 34                                                                        
+Material: COTTON                                                                
+Price: 1200                                                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+6.Exit.                                                                         
+                                                                                
+ Enter choice(1-5): 5                                                           
+2       dhruv   ssfdjhklsh      1       dhruv   vapi    2       dhruv   capi    
+9       sanket  uk      2       sanket  pakistan        6       rajbir  chhiri  
+8       pranav  kocharvadi      1       DHRUV   GIDC    10      RUSHIT  SURYAKIR
+AN                                                                              
+                                                                                
+                                                                                
+ Main menu:                                                                     
+                                                                                
+1.Add Record                                                                    
+                                                                                
+2.Search                                                                        
+                                                                                
+3.Delete                                                                        
+                                                                                
+4.Modify                                                                        
+                                                                                
+5.Display                                                                       
+                                                                                
+6.Exit.                                                                         
+                                                                                
+ Enter choice(1-5): 6                                                           
+                                                                                

@@ -1,0 +1,50 @@
+TEST MATCH 5                                                                    
+Enter Test Code: 045                                                            
+                                                                                
+Enter DSescription: MUSIC                                                       
+                                                                                
+Enter No. of Candidates: 50                                                     
+                                                                                
+TEST MATCH INFORMATION...                                                       
+Test Match Code: 37                                                             
+Description: MUSIC                                                              
+Total Candidates: 50                                                            
+Centers Required: 1                                                             
+                                                                                
+TEST MATCH 6                                                                    
+Enter Test Code: 066                                                            
+                                                                                
+Enter DSescription: SOCIAL                                                      
+                                                                                
+Enter No. of Candidates: 130                                                    
+                                                                                
+TEST MATCH INFORMATION...                                                       
+Test Match Code: 54                                                             
+Description: SOCIAL                                                             
+Total Candidates: 130                                                           
+Centers Required: 2                                                             
+																										  
+Enter any information [# to exit] :                                             
+THE BALL IS LIFE                                                                
+WELL DONE                                                                       
+THE GAME IS OVER                                                                
+WE WON THE MATCH.                                                               
+#                                                                               
+                                                                                
+Number of lines starting with T or M are: 2                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

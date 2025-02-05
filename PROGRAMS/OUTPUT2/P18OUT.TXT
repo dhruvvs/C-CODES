@@ -1,0 +1,175 @@
+																										  
+Enter no. of elements: 5                                                        
+                                                                                
+Enter element 0 : 1                                                             
+                                                                                
+Enter element 1 : 2                                                             
+                                                                                
+Enter element 2 : 3                                                             
+                                                                                
+Enter element 3 : 4                                                             
+                                                                                
+Enter element 4 : 5                                                             
+                                                                                
+Original Array:                                                                 
+1       2       3       4       5                                               
+Array after bubble sort:                                                        
+1       2       3       4       5                                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																										  
+Original array:                                                                 
+77      33      44      11      88      22      66      55                      
+                                                                                
+Minimum Integer: -32768                                                         
+Array after each pass:                                                          
+Pass - 1        77      33      44      11      88      22      66      55      
+Pass - 2        33      77      44      11      88      22      66      55      
+Pass - 3        33      44      77      11      88      22      66      55      
+Pass - 4        11      33      44      77      88      22      66      55      
+Pass - 5        11      33      44      77      88      22      66      55      
+Pass - 6        11      22      33      44      77      88      66      55      
+Pass - 7        11      22      33      44      66      77      88      55      
+Pass - 8        11      22      33      44      55      66      77      88      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																										  
+Enter no. of elements: 5                                                        
+                                                                                
+Enter all array elements:                                                       
+Enter the element-0: 1                                                          
+                                                                                
+Enter the element-1: 2                                                          
+                                                                                
+Enter the element-2: 3                                                          
+                                                                                
+Enter the element-3: 4                                                          
+                                                                                
+Enter the element-4: 5                                                          
+                                                                                
+Given Array:                                                                    
+1       2       3       4       5                                               
+Reversed Array:                                                                 
+5       4       3       2       1                                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																										  
+Enter a string: MALAYALAM                                                       
+                                                                                
+Enter a character to be searched: A                                             
+                                                                                
+No. of occurences of A in the string is: 4                                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+TEST MATCH 5                                                                    
+Enter Test Code: 045                                                            
+                                                                                
+Enter DSescription: MUSIC                                                       
+                                                                                
+Enter No. of Candidates: 50                                                     
+                                                                                
+TEST MATCH INFORMATION...                                                       
+Test Match Code: 37                                                             
+Description: MUSIC                                                              
+Total Candidates: 50                                                            
+Centers Required: 1                                                             
+                                                                                
+TEST MATCH 6                                                                    
+Enter Test Code: 066                                                            
+                                                                                
+Enter DSescription: SOCIAL                                                      
+                                                                                
+Enter No. of Candidates: 130                                                    
+                                                                                
+TEST MATCH INFORMATION...                                                       
+Test Match Code: 54                                                             
+Description: SOCIAL                                                             
+Total Candidates: 130                                                           
+Centers Required: 2                                                             
+																										  
+Enter any information [# to exit] :                                             
+THE BALL IS LIFE                                                                
+WELL DONE                                                                       
+THE GAME IS OVER                                                                
+WE WON THE MATCH.                                                               
+#                                                                               
+                                                                                
+Number of lines starting with T or M are: 2                                     
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+																										  
+Enter Character: I LIKE STUDYING COMPUTER                                       
+COMPUTER IS FUN                                                                 
+                                                                                
+#                                                                               
+                                                                                
+                                                                                
+Output from file. IC                                                            
+                                                                                
+Lines: 3                                                                        
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

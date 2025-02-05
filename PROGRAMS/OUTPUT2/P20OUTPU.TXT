@@ -1,0 +1,3 @@
+Enter rollno of student to be search for: 7                                     
+Rollno: 7       Name: steve                                                     
+Marks: 50       Grade: C

@@ -1,0 +1,25 @@
+																										  
+ENTER CHOICE: 2                                                                 
+                                                                                
+                                                                                
+                                                                                
+Queue Operations!!!                                                             
+1.INSERT                                                                        
+2.DELETE                                                                        
+3.DISPLAY                                                                       
+4.EXIT                                                                          
+                                                                                
+ENTER CHOICE: 3                                                                 
+                                                                                
+Queue:                                                                          
+6                                                                               
+                                                                                
+                                                                                
+Queue Operations!!!                                                             
+1.INSERT                                                                        
+2.DELETE                                                                        
+3.DISPLAY                                                                       
+4.EXIT                                                                          
+                                                                                
+ENTER CHOICE: 4                                                                 
+                                                                                

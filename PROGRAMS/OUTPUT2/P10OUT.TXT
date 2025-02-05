@@ -1,0 +1,25 @@
+																				
+Enter a string: thiruvananthapuram                                              
+                                                                                
+Enter a character to be searched: a                                             
+                                                                                
+No. of occurences of a in the string is: 4                                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
